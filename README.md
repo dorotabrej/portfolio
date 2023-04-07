@@ -50,7 +50,8 @@ My name is Dorota Brej-Dziewierska. I am master in economisc, speciality - logis
 * Projekt Kapusta
 
 # My projects
-* website in HTML: [tinyurl][1]
+ [tinyurl][1] i [Trello.com][2]
+* website in HTML:
 [1]: https://tinyurl.com/53tphehr/ "Tinyurl"
-* API testing: [Trello.com][2]
+* API testing: 
 [2]: https://trello.com/invite/b/W6gYpimU/ATTIbdd79a873941deabbc3ba782419cb580A57DCF2D/praktyka-po-zmianie/ "Trello.com"
