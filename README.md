@@ -51,5 +51,5 @@ My name is Dorota Brej-Dziewierska. I am master in economisc, speciality - logis
 
 # My projects
  [Tinyurl][Page in HTML] and [Trello.com][API Testing]
-[page in HTML]: https://tinyurl.com/53tphehr/ "Tinyurl"
-[API Testing]: https://trello.com/invite/b/W6gYpimU/ATTIbdd79a873941deabbc3ba782419cb580A57DCF2D/praktyka-po-zmianie/ "Trello.com"
+* [Page in HTML]: https://tinyurl.com/53tphehr/ "Tinyurl"
+* [API Testing]: https://trello.com/invite/b/W6gYpimU/ATTIbdd79a873941deabbc3ba782419cb580A57DCF2D/praktyka-po-zmianie/ "Trello.com"
